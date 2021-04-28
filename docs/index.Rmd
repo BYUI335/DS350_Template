@@ -1,4 +1,0 @@
----
-title: "Main Page"
-output: html_document
----
