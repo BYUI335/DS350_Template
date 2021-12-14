@@ -1,1 +1,0 @@
-Please place your semester final deliverables in this folder. 
